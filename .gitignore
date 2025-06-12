@@ -1,0 +1,8 @@
+# すべて無視
+*
+
+# 管理対象ファイル（例：srcディレクトリ内の特定ファイル）
+!.gitignore
+!StreamDeckIcons.pptx
+!PowerPointIconsForStreamDeck.zip
+
